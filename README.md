@@ -3,8 +3,18 @@
 
 #Funcionalidades: Adicionar Conteúdos ao catalogo pessoal, Feed para acompranhar as pessoas que o usuário segue, Avaliar filmes e series com notas e comentarios;
 
-+Linguagens:Python-Django, HTML/CSS;
++Linguagens:
+Python-Django;
+HTML/CSS;
 
-#Tecnologias Ultilizadas: Visual Studio Code, Replit;
+#Tecnologias Ultilizadas: 
+Visual Studio Code;
+Replit;
 
-#Autores: Aécio Laurentino, Brunna Pontual, Thiago Belo, Pedro Coutinho, Marcelo Cavalcanti, Felipe Sergio.
+#TIME: 
+Aécio Laurentino Bezerra Filho 
+Brunna Pontual
+Thiago Menezes Belo
+Pedro Coutinho;
+Marcelo Cavalcanti D Melo
+Felipe Sergio.
