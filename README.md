@@ -27,4 +27,4 @@ Pedro Coutinho
 Thiago Belo
 
 # LINKS
-jira:https://thiagombelo.atlassian.net/jira/software/projects/FDS/boards/1
+Jira: https://thiagombelo.atlassian.net/jira/software/projects/FDS/boards/1
