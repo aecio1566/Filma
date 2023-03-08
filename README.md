@@ -12,9 +12,9 @@ Visual Studio Code;
 Replit;
 
 # TIME 
-Aécio Laurentino Bezerra Filho 
-Brunna Pontual
-Thiago Menezes Belo
-Pedro Coutinho;
-Marcelo Cavalcanti D Melo
-Felipe Sergio.
+Aécio Laurentino Bezerra Filho\n
+Brunna Pontual\n
+Thiago Menezes Belo\n
+Pedro Coutinho\n
+Marcelo Cavalcanti D Melo\n
+Felipe Sergio\n
