@@ -11,7 +11,7 @@ HTML/CSS;
 Visual Studio Code;
 Replit;
 
-TIME 
+# TIME 
 Aécio Laurentino Bezerra Filho 
 Brunna Pontual
 Thiago Menezes Belo
