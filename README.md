@@ -12,17 +12,17 @@ Visual Studio Code;
 Replit;
 
 # TIME 
-Aécio Laurentino Bezerra Filho
+Aécio Laurentino 
 
 Brunna Pontual
 
-Thiago Menezes Belo
+Felipe Sergio
+
+Marcelo Cavalcanti
 
 Pedro Coutinho
 
-Marcelo Cavalcanti D Melo
-
-Felipe Sergio
+Thiago Belo
 
 # LINKS
 jira:https://thiagombelo.atlassian.net/jira/software/projects/FDS/boards/1
