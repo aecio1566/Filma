@@ -1,7 +1,7 @@
 # Filma
 #Produto destinado a pessoas que tem interesse em participar de uma comunidade focada em filmes e séries, onde os mesmos poderão avaliar e comentar sobre o que assistiram.                                           
 
-#Funcionalidades: Adicionar Conteúdos ao catalogo pessoal, Feed para acompranhar as pessoas que o usuário segue, Avaliar filmes e series com notas e comentarios;
+#Funcionalidades: Adicionar Conteúdos ao catalogo pessoal, Feed para acompanhar as pessoas que o usuário segue, Avaliar filmes e séries com notas e comentários;
 
 +Linguagens:
 Python-Django;
