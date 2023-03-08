@@ -16,7 +16,7 @@ Aécio Laurentino
 
 Brunna Pontual
 
-Felipe Sergio
+Felipe Sérgio
 
 Marcelo Cavalcanti
 
