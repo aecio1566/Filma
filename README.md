@@ -1,5 +1,5 @@
 # Filma
-#Produto destinado a pessoas que tem interesse em participar de uma comunidade focada em filmes e séries, onde os mesmos poderão avaliar e comentar sobre o que assistiram.                                          
+#Produto Pensando no grande mercado de filmes, nosso grupo desenvolveu um site que coleta informações sobre as avaliações e opiniões do usuário em relação a diferentes filmes e séries que eles assistem, bem como suas escolhas de gênero e outras preferências. Além disso, o site funciona como uma rede social, no qual o usuário tem a opção de seguir pessoas e ver suas preferências, avaliações e filmes assistidos.                                          
 
 #Funcionalidades: Adicionar Conteúdos ao catalogo pessoal, Feed para acompanhar as pessoas que o usuário segue, Avaliar filmes e séries com notas e comentários;
 
