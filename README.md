@@ -10,6 +10,8 @@ HTML/CSS;
 #Tecnologias Ultilizadas: 
 Visual Studio Code;
 Replit;
+Jira;
+Figma;
 
 # TIME 
 Aécio Laurentino 
